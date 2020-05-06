@@ -1,0 +1,1 @@
+ERROR: self.__driver.find_element_by_xpath(//*[text()=Задание:]).click()
